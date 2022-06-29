@@ -1,6 +1,6 @@
 # ari_schermer_teladoc_challenge
 
-Is a Python script that searches the Movie Titles API with a search parameter and then returns a list of movie titles associated with that search parameter.
+The ari_schermer_teladoc_challenge contains a Python script with tests that queries the Movie Titles API with a search term and then returns a list of movie titles associated with that search parameter.
 
 ## Usage
 
