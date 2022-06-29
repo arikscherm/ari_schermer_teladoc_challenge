@@ -5,7 +5,7 @@ The ari_schermer_teladoc_challenge contains a Python script with tests that quer
 ## Usage
 
 To run the tests
-  1. Clone the repo and cd into the ari_schermer_teladoc_challenge directory
+  1. Clone the repo and cd into the ari_schermer_teladoc_challenge/teladoc_challenge directory
   2. Run the test in CLI with '''bash python test.py''' or '''bash python3 test.py'''
   
  
